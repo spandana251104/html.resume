@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Resume</title>
+    </head>
+
+    <body>
+        <h1>C B Spandana</h1>
+       <img src="./photo.jpeg" alt="C B Spandana" width="200" height="250">
+        <h2>Summary</h2>
+        <p>Motivated fresher with strong academic background and quick learning ability, eager to comtribute to organisational success.</p>
+        <hr>
+        <h2>Education</h2>
+        <ul>
+            <li>Bacholar of business administration - Mysore university (2024-25)</li>
+        </ul>
+        <hr>
+        <h2>Work experience</h2>
+        <ul>
+            <li>Internship</li>
+                Worked as financial analyst in Equiprime 
+                 ( from 14-02-2025 to 14-03-2025)
+        </ul>
+        <hr>
+        <h2>Skills</h2>
+        <ul>
+            <li>Leadership</li>
+            <li>Effective communication</li>
+            <li>MS Excel</li>
+        </ul>
+        <hr>
+        <h2>Awards and certificates</h2>
+        <ul>
+            <li>Best NSS Volunteer of the year 2024</li>
+            <li>Natinal Level Kabaddi Player</li>
+        </ul>
+        <hr>
+        <h2>Other</h2>
+        <ul>
+            <li> <h3> <a href="./Hobbies">Hobbies</a></h3></li>
+            <li> <h3> <a href="./Contact Me">Contact Me</a></h3></li>
+        </ul>
+        
